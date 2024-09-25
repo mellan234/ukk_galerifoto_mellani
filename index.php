@@ -147,7 +147,7 @@ $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : null;
     </div>
 
     <footer class="d-flex justify-content-center border-top mt-3 bg-light fixed-bottom">
-        <p>&copy; UKK RPL 2024 | Fadli</p>
+        <p>&copy; UKK RPL 2024 | MELLANI</p>
     </footer>
 
     <!-- Modal Login -->
@@ -176,7 +176,7 @@ $userid = isset($_SESSION['userid']) ? $_SESSION['userid'] : null;
     </div>
 
 <footer class="d-flex justify-content-center border-top mt-3 bg-light fixed-bottom">
-    <p>&copy; UKK RPL 2024 | melannie</p>
+    <p>&copy; UKK RPL 2024 | MELLANI</p>
 </footer>
 
 
